@@ -1,9 +1,12 @@
 [submodule "htdocs/nomenclature"]
 	path = htdocs/nomenclature
 	url = git@github.com:ATM-Consulting/dolibarr_module_nomenclature.git
+    branch = 2.0
 [submodule "htdocs/workstation"]
 	path = htdocs/workstation
 	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+    branch = 1.0
 [submodule "htdocs/abricot"]
 	path = htdocs/abricot
-	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
+    branch = master
